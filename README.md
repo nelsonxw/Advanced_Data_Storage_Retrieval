@@ -2,7 +2,7 @@
 * Data Engineering  
   
   [Link to codes and results](https://github.com/nelsonxw/Advanced_Data_Storage_Retrieval/blob/master/data_engineering.ipynb)
-  <br>  
+  <br>
   
 * Database Engineering  
   Although urban cities have more drivers and rides, the avaerage fare is lower which indicates urban market is more price competitive.
