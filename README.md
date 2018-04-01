@@ -17,5 +17,5 @@
   [Link to codes and results](https://github.com/nelsonxw/Advanced_Data_Storage_Retrieval/blob/master/climate_analysis.ipynb)
   <br>
  
- * Climate App   
+ * Climate App  
   [Link to codes and results](https://github.com/nelsonxw/Advanced_Data_Storage_Retrieval/blob/master/app.py)
